@@ -67,8 +67,3 @@ URL: localhost:7171/v1/order/update-status
 }
 ```
 
-
-
----
-[Back to top](#core-data-collaction)
-> Made with &#9829; by [thedevsaddam](https://github.com/thedevsaddam) | Generated at: 2021-12-13 20:55:19 by [docgen](https://github.com/thedevsaddam/docgen)
