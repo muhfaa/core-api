@@ -1,0 +1,12 @@
+{
+    "backend_port": 7171,
+    "mysql": {
+        "host": "localhost",
+        "port": "3306",
+        "user": "root",
+        "password": "root",
+        "name": "core-db",
+        "max_idle_con": 5,
+        "max_open_con": 10
+    }
+}
